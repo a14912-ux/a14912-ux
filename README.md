@@ -23,7 +23,7 @@ I like creating things that are simple, organized and actually useful. I'm const
 Right now, I'm working towards becoming a **strong backend developer**, with a focus on writing clean, reliable and maintainable software.
 
 > 💡 Always learning. Always building.
-Ou, se quiseres algo mais curto e com mais personalidade, eu prefiro esta:
+
 
 ## 🚀 About Me
 
