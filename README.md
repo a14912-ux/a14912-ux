@@ -14,33 +14,30 @@
 
 ## 🚀 About Me
 
-┌─────────────────────────────────────────────┐ │ │ │ 👨‍💻 Rodrigo Arantes │ │ │ │ Software Developer │ │ Java enthusiast │ │ Problem solver │ │ Always learning │ │ │ │ Building projects. │ │ Improving my skills. │ │ Turning ideas into code. │ │ │ └─────────────────────────────────────────────┘
+Hey! I'm **Rodrigo Arantes**, a developer who enjoys turning ideas into code and learning something new with every project.
 
+I'm currently focused on **Java and Object-Oriented Programming**, building projects to improve my problem-solving skills and understand how real software is designed.
 
-I'm a developer passionate about technology,
-programming and building things with code.
+I like creating things that are simple, organized and actually useful. I'm constantly exploring new technologies, experimenting with different approaches and pushing myself to become a better developer.
 
-Currently focused on strengthening my skills
-in **Java, Object-Oriented Programming and
-software development**.
+Right now, I'm working towards becoming a **strong backend developer**, with a focus on writing clean, reliable and maintainable software.
 
-> `The best way to learn programming is to build.`
+> 💡 Always learning. Always building.
+Ou, se quiseres algo mais curto e com mais personalidade, eu prefiro esta:
 
----
+## 🚀 About Me
 
-## ☕ Main Stack
+Hey! I'm **Rodrigo Arantes** 👋
 
-<div align="center">
+I'm a developer who enjoys turning ideas into code and figuring out how things work behind the scenes.
 
-<img src="https://skillicons.dev/icons?i=java,git,github,mysql,vscode,idea&theme=dark" />
+Currently focused on **Java, OOP and backend development**, while constantly learning, building projects and improving my problem-solving skills.
 
-</div>
+I believe good software should be **simple, reliable and meaningful**.
 
-<br>
+Outside of code, I'm just curious about technology and always looking for the next thing to build. 🚀
 
-Java ├── Object-Oriented Programming ├── Classes & Objects ├── Inheritance ├── Polymorphism └── Encapsulation
-
-Development ├── CRUD ├── Algorithms ├── Data Structures └── Problem Solving
+**Learn → Build → Improve → Repeat.**
 
 
 ---
