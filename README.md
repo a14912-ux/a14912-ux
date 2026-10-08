@@ -1,16 +1,153 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**a14912-ux/a14912-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=170&section=header&text=RODRIGO%20ARANTES&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20Enthusiast&descAlignY=62&descSize=17&descColor=8B949E" width="100%"/>
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Rodrigo Arantes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `Software Developer`
+
+**Code. Learn. Build. Repeat.**
+
+</div>
+
+---
+
+## 🚀 About Me
+
+┌─────────────────────────────────────────────┐ │ │ │ 👨‍💻 Rodrigo Arantes │ │ │ │ Software Developer │ │ Java enthusiast │ │ Problem solver │ │ Always learning │ │ │ │ Building projects. │ │ Improving my skills. │ │ Turning ideas into code. │ │ │ └─────────────────────────────────────────────┘
+
+
+I'm a developer passionate about technology,
+programming and building things with code.
+
+Currently focused on strengthening my skills
+in **Java, Object-Oriented Programming and
+software development**.
+
+> `The best way to learn programming is to build.`
+
+---
+
+## ☕ Main Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github,mysql,vscode,idea&theme=dark" />
+
+</div>
+
+<br>
+
+Java ├── Object-Oriented Programming ├── Classes & Objects ├── Inheritance ├── Polymorphism └── Encapsulation
+
+Development ├── CRUD ├── Algorithms ├── Data Structures └── Problem Solving
+
+
+---
+
+## 📂 Projects
+
+<div align="center">
+
+<a href="https://github.com/a14912-ux/java-oop">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=a14912-ux&repo=java-oop&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/a14912-ux/CRUD">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=a14912-ux&repo=CRUD&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+learning:
+
+Java
+Object-Oriented Programming
+Data Structures
+Algorithms
+Databases
+Software Development
+next:
+
+Backend Development
+APIs
+Spring Boot
+SQL
+Software Architecture
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=a14912-ux&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=a14912-ux&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=a14912-ux&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=FFFFFF"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=a14912-ux&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Goals
+
+[████████████████████░░] Learn Java
+
+[███████████████░░░░░░░] Master OOP
+
+[████████████░░░░░░░░░░] Build real projects
+
+[██████████░░░░░░░░░░░░] Backend Development
+
+[███████░░░░░░░░░░░░░░░] Become a better developer
+
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/a14912-ux">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `「 Code is not just written. It's built. 」`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=a14912-ux&style=flat-square&color=161B22"/>
+
+</div>
