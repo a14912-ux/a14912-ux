@@ -1,150 +1,92 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=170&section=header&text=RODRIGO%20ARANTES&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20Enthusiast&descAlignY=62&descSize=17&descColor=8B949E" width="100%"/>
-
-# 👋 Hi, I'm Rodrigo Arantes
-
-### `Software Developer`
-
-**Code. Learn. Build. Repeat.**
-
-</div>
-
----
-
-## 🚀 About Me
-
-Hey! I'm **Rodrigo Arantes**, a developer who enjoys turning ideas into code and learning something new with every project.
-
-I'm currently focused on **Java and Object-Oriented Programming**, building projects to improve my problem-solving skills and understand how real software is designed.
-
-I like creating things that are simple, organized and actually useful. I'm constantly exploring new technologies, experimenting with different approaches and pushing myself to become a better developer.
-
-Right now, I'm working towards becoming a **strong backend developer**, with a focus on writing clean, reliable and maintainable software.
-
-> 💡 Always learning. Always building.
-
-
-## 🚀 About Me
-
-Hey! I'm **Rodrigo Arantes** 👋
-
-I'm a developer who enjoys turning ideas into code and figuring out how things work behind the scenes.
-
-Currently focused on **Java, OOP and backend development**, while constantly learning, building projects and improving my problem-solving skills.
-
-I believe good software should be **simple, reliable and meaningful**.
-
-Outside of code, I'm just curious about technology and always looking for the next thing to build. 🚀
-
-**Learn → Build → Improve → Repeat.**
-
-
----
-
-## 📂 Projects
+!Header
 
 <div align="center">
 
-<a href="https://github.com/a14912-ux/java-oop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=a14912-ux&repo=java-oop&theme=github_dark&hide_border=true" />
-</a>
+<img src="./assets/hand.png" width="150" alt="Signature hand gesture"/>
 
-<a href="https://github.com/a14912-ux/CRUD">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=a14912-ux&repo=CRUD&theme=github_dark&hide_border=true" />
-</a>
+Rodrigo Arantes
+Software Developer | Java & Backend Development
+
+Building skills, solving problems, creating software.
+
+<a href="https://github.com/a14912-ux"> <img src="https://img.shields.io/badge/GitHub-a14912--ux-181717?style=for-the-badge&logo=github" alt="GitHub"/> </a> <img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Developer"/>
 
 </div>
 
----
+👨‍💻 About Me
 
-## 🧠 Currently Learning
+Hey! I'm Rodrigo Arantes, a developer passionate about technology, problem-solving and building things from scratch.
 
-learning:
+I'm currently focused on Java, Object-Oriented Programming and backend development, developing projects that help me strengthen my programming fundamentals and understand how real-world software works.
 
-Java
-Object-Oriented Programming
-Data Structures
-Algorithms
-Databases
-Software Development
-next:
+I value clean code, logical thinking and continuous improvement. My goal is to become a skilled backend developer capable of building reliable, maintainable and useful applications.
 
-Backend Development
-APIs
+☕ Learning Java and OOP
+🧠 Improving my problem-solving skills
+🛠️ Building projects and learning by doing
+🚀 Working towards backend development
+Learn. Build. Improve. Repeat.
+🛠️ Tech Stack & Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode,mysql&theme=dark" alt="Technologies and tools"/>
+
+</div>
+
+Currently focusing on
+
+Java fundamentals and Object-Oriented Programming
+Data Structures and Algorithms
+CRUD operations and database fundamentals
+Writing clean, readable and maintainable code
+
+Next steps
+
+SQL and database design
+REST APIs
 Spring Boot
-SQL
-Software Architecture
-
----
-
-## 📊 GitHub Stats
+Backend architecture and software design
+📂 Featured Projects
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=a14912-ux&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=a14912-ux&layout=compact&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/a14912-ux/java-oop"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=a14912-ux&repo=java-oop&theme=githubdark&hideborder=true" alt="Java OOP project"/> </a> <a href="https://github.com/a14912-ux/CRUD"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=a14912-ux&repo=CRUD&theme=githubdark&hideborder=true" alt="CRUD project"/> </a>
 
 </div>
 
----
+These projects are part of my journey to strengthen my programming fundamentals, practice software design and turn what I learn into practical applications.
 
-## 🔥 Contribution Streak
+📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=a14912-ux&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=FFFFFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=a14912-ux&showicons=true&theme=githubdark&hideborder=true&rankicon=github" alt="GitHub statistics"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a14912-ux&layout=compact&theme=githubdark&hideborder=true" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=a14912-ux&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=FFFFFF" alt="GitHub contribution streak"/>
 
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=a14912-ux&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 Goals
-
-[████████████████████░░] Learn Java
-
-[███████████████░░░░░░░] Master OOP
-
-[████████████░░░░░░░░░░] Build real projects
-
-[██████████░░░░░░░░░░░░] Backend Development
-
-[███████░░░░░░░░░░░░░░░] Become a better developer
-
-
----
-
-## 🤝 Connect With Me
+🎯 My Roadmap
+Start building Java projects
+Practice Object-Oriented Programming
+Improve Data Structures and Algorithms
+Build more complete applications
+Develop REST APIs with Spring Boot
+Strengthen SQL and database skills
+Build a solid backend portfolio
+🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/a14912-ux">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/a14912-ux"> <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="Visit my GitHub"/> </a>
 
-</div>
+<br/><br/>
 
----
+“Great software is built one improvement at a time.”
 
-<div align="center">
-
-### `「 Code is not just written. It's built. 」`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=a14912-ux&style=flat-square&color=161B22"/>
+<img src="https://komarev.com/ghpvc/?username=a14912-ux&style=flat-square&color=161B22" alt="Profile views"/>
 
 </div>
